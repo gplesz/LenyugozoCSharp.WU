@@ -59,6 +59,18 @@ dotnet run
   dotnet add package Microsoft.Bot.Connector.AspNetCore --version 2.0.1.3
   ```
 
+## Azure bot channel registration
+
+Alkalmazás név: LenyugozoCsharpWu
+Alkalmazás azonosító: 8fb3babb-5b6b-4265-a510-4391f38c13a2
+Alkalmazás jelszó: vlsxzRKBS49997+(-ccVMA%
+
+## Alkalmazás telepítése Azure-ra
+Azure CLI használatával
+
+```
+az webapp new --name lenyugozocsharpwu --location "North Europe" --dryrun
+```
 
 ## Ajánlott tanfolyamok
 
