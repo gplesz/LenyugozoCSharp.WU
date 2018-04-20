@@ -72,6 +72,18 @@ Azure CLI használatával
 az webapp new --name lenyugozocsharpwu --location "North Europe" --dryrun
 ```
 
+Figyelem: az üzenetküldő végpont, az nem az alkalmazás címe, hanem a MessageController címe!!!
+
+
+## Raspberry PI alkalmazás készítése
+
+```
+md rpi.server
+cd .\rpi.server\
+dotnet new webapi
+```
+
+
 ## Ajánlott tanfolyamok
 
 [Hálózati alapismeretek (ingyenes!)](https://app.netacademia.hu/Tanfolyam/HA-halozati-alapismeretek)
