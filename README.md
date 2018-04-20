@@ -87,7 +87,7 @@ Raspberry IO GPIO eléréshez
 ```
 dotnet add package Unosquare.Raspberry.IO --version 0.14.0
 ```
-![Raspberry szerelés](pics/szereles.png)
+![Raspberry szerelés](rpi.server/pics/szereles.png)
 
 ## Ajánlott tanfolyamok
 
