@@ -83,6 +83,10 @@ cd .\rpi.server\
 dotnet new webapi
 ```
 
+Raspberry IO GPIO eléréshez
+```
+dotnet add package Unosquare.Raspberry.IO --version 0.14.0
+```
 
 ## Ajánlott tanfolyamok
 
