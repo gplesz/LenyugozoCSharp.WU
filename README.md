@@ -87,7 +87,10 @@ Raspberry IO GPIO eléréshez
 ```
 dotnet add package Unosquare.Raspberry.IO --version 0.14.0
 ```
+![Raspberry szerelés](pics/szereles.png)
 
 ## Ajánlott tanfolyamok
 
 [Hálózati alapismeretek (ingyenes!)](https://app.netacademia.hu/Tanfolyam/HA-halozati-alapismeretek)
+[Elektronikai alapismeretek (ingyenes)](https://app.netacademia.hu/Tanfolyam/ELAI-I-az-elektronika-alapismeretei-i)
+[Linux alapok Raspberry PI-vel](https://app.netacademia.hu/Tanfolyam/2017bevLINUX-bevezetes-a-linux-vilagaba-raspberry-pi)
