@@ -36,3 +36,7 @@
                                 +-----------------+           +------------------------------------------------------+
 
 ```
+
+## Ajánlott tanfolyamok
+
+[Hálózati alapismeretek (ingyenes!)](https://app.netacademia.hu/Tanfolyam/HA-halozati-alapismeretek)
