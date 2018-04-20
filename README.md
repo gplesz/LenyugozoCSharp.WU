@@ -34,8 +34,23 @@
              +------+           |                 |           |                                                      |
                                 |                 |           |                                                      |
                                 +-----------------+           +------------------------------------------------------+
-
 ```
+
+## Első alkalmazás készítése
+
+Létrehozzuk az első alkalmazásunkat
+```
+md bot.server
+cd .\bot.server\
+dotnet new webapi
+```
+
+futtatjuk
+```
+dotnet run
+```
+
+
 
 ## Ajánlott tanfolyamok
 
